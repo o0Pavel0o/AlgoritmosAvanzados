@@ -1,2 +1,2 @@
-# Pavel Egido del Arco
-Algorítmos Avanzados
+# Algorítmos Avanzados
+Pavel Egido del Arco
